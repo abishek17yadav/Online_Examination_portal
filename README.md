@@ -1,3 +1,76 @@
+# 🧠 ProExamer – AI-Powered Examination Portal
+
+**ProExamer** is a full-stack web application built using the **MERN stack** (MongoDB, Express.js, React.js, Node.js) that enables students to prepare for exams through online test conduction, question banks, and personalized AI-based feedback.
+
+## 🚀 Project Description
+
+This platform allows educators to create and manage exams while students can attempt them online. The highlight of the project is its integration with **Google Gemini AI**, which enables **automatic evaluation of subjective answers** and provides **personalized feedback**—enhancing learning outcomes.
+
+---
+
+## 🛠️ Tech Stack
+
+### 🔧 Frontend:
+- React.js
+- Tailwind CSS
+- Axios
+
+### 🔧 Backend:
+- Node.js
+- Express.js
+
+### 🗃️ Database:
+- MongoDB (with Mongoose)
+
+### 🤖 AI Integration:
+- Google Gemini API for answer evaluation
+
+### 🧪 Testing & Dev Tools:
+- Postman
+- Git & GitHub
+
+---
+
+## 🌟 Key Features
+
+- 👥 **User Authentication & Role Management** (Admin, Teacher, Student)
+- 📝 **Question Bank** – Add, edit, and delete questions
+- 🧪 **Exam Conduction** – Schedule and manage tests
+- 🤖 **AI-Based Answer Evaluation** using Google Gemini
+- 📊 **Performance Analytics** – Personalized scorecards and feedback
+- 📱 **Responsive Design** – Tailwind CSS for mobile-first UI
+- 🛠️ **Agile Development** – Scrum methodology with sprint planning
+
+---
+
+## 📸 Screenshots
+
+
+## 💡 Future Improvements
+
+- Real-time chat and doubt-solving forum
+- PDF export of results and answer evaluations
+- Admin dashboard analytics with charts
+- Support for multiple languages
+
+---
+
+## 👨‍💻 Author
+
+**Abishek Yadav**  
+📧 abishek17501@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/abishekyadav17) | [GitHub](https://github.com/abishek17yadav)
+
+---
+
+## 📜 License
+
+This project is open-source and free to use for educational purposes.
+
+---
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
